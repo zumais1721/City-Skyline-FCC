@@ -299,10 +299,10 @@ body {
 
 @media (max-width: 1000px) {
   :root {
-    --building-color1: #777;
-    --building-color2: #777;
-    --building-color3: #777;
-    --building-color4: #777;
+    --window-color1: #777;
+    --window-color2: #777;
+    --window-color3: #777;
+    --window-color4: #777;
   }
   .sky {
     background: radial-gradient(
